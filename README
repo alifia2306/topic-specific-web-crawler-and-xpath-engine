@@ -1,0 +1,1 @@
+Implemented an XPath Engine that checks if XPath expressions are valid and match given html/xml documents using DOM parser. Also built a crawler for html/xml documents from the Web matching a set of xpath expressions for user channels.
